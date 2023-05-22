@@ -1,0 +1,33 @@
+Error in insert: IllegalArgumentException raised
+False
+-1
+
+-1
+0
+-1
+True
+True
+True
+Error in insert: IllegalArgumentException raised
+False
+63
+85
+3
+2
+True
+True
+True
+True
+63
+88
+85 63 74 86 88 87 
+True
+True
+True
+*85 63 *74 86 *88 87 
+63
+86
+True
+*85 63 74 86 *88 87 
+True
+85 63 74 86 *88 87 
