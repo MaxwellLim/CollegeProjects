@@ -1,0 +1,54 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Maxwell Lim/Documents/Programs/CPP/linkedList/assignment3part1.cpp
+iostream
+-
+string
+-
+linkedList.h
+C:/Users/Maxwell Lim/Documents/Programs/CPP/linkedList/linkedList.h
+
+C:/Users/Maxwell Lim/Documents/Programs/CPP/linkedList/linkedList.h
+cassert
+-
+iostream
+-
+iomanip
+-
+cstddef
+-
+iterator
+-
+
+C:/Users/Maxwell Lim/Documents/Programs/CPP/linkedList/orderedLinkedList.h
+cstddef
+-
+linkedList.h
+C:/Users/Maxwell Lim/Documents/Programs/CPP/linkedList/linkedList.h
+
+C:/Users/Maxwell Lim/Documents/Programs/CPP/linkedList/phoneBook.cpp
+iostream
+-
+iomanip
+-
+phoneBook.h
+C:/Users/Maxwell Lim/Documents/Programs/CPP/linkedList/phoneBook.h
+
+C:/Users/Maxwell Lim/Documents/Programs/CPP/linkedList/phoneBook.h
+vector
+-
+phoneBookEntry.h
+C:/Users/Maxwell Lim/Documents/Programs/CPP/linkedList/phoneBookEntry.h
+orderedLinkedList.h
+C:/Users/Maxwell Lim/Documents/Programs/CPP/linkedList/orderedLinkedList.h
+
+C:/Users/Maxwell Lim/Documents/Programs/CPP/linkedList/phoneBookEntry.h
+string
+-
+
