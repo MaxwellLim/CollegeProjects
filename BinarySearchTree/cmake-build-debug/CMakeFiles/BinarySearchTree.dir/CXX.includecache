@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Maxwell Lim/Documents/Programs/CPP/BinarySearchTree/assignment4.cpp
+iostream
+-
+algorithm
+-
+cctype
+-
+fstream
+-
+binarySearchTree.h
+C:/Users/Maxwell Lim/Documents/Programs/CPP/BinarySearchTree/binarySearchTree.h
+
+C:/Users/Maxwell Lim/Documents/Programs/CPP/BinarySearchTree/binarySearchTree.h
+vector
+-
+iostream
+-
+iomanip
+-
+

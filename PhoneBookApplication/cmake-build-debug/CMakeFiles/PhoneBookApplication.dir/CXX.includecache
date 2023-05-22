@@ -1,0 +1,88 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Maxwell Lim/Documents/Programs/CPP/PhoneBookApplication/addUpdateCommand.cpp
+addUpdateCommand.h
+C:/Users/Maxwell Lim/Documents/Programs/CPP/PhoneBookApplication/addUpdateCommand.h
+
+C:/Users/Maxwell Lim/Documents/Programs/CPP/PhoneBookApplication/addUpdateCommand.h
+bookCommand.h
+C:/Users/Maxwell Lim/Documents/Programs/CPP/PhoneBookApplication/bookCommand.h
+phoneBook.h
+C:/Users/Maxwell Lim/Documents/Programs/CPP/PhoneBookApplication/phoneBook.h
+
+C:/Users/Maxwell Lim/Documents/Programs/CPP/PhoneBookApplication/assignment2.cpp
+iostream
+-
+addUpdateCommand.h
+C:/Users/Maxwell Lim/Documents/Programs/CPP/PhoneBookApplication/addUpdateCommand.h
+eraseCommand.h
+C:/Users/Maxwell Lim/Documents/Programs/CPP/PhoneBookApplication/eraseCommand.h
+printCommand.h
+C:/Users/Maxwell Lim/Documents/Programs/CPP/PhoneBookApplication/printCommand.h
+menuList.h
+C:/Users/Maxwell Lim/Documents/Programs/CPP/PhoneBookApplication/menuList.h
+
+C:/Users/Maxwell Lim/Documents/Programs/CPP/PhoneBookApplication/bookCommand.h
+iostream
+-
+command.h
+C:/Users/Maxwell Lim/Documents/Programs/CPP/PhoneBookApplication/command.h
+
+C:/Users/Maxwell Lim/Documents/Programs/CPP/PhoneBookApplication/command.h
+
+C:/Users/Maxwell Lim/Documents/Programs/CPP/PhoneBookApplication/eraseCommand.cpp
+eraseCommand.h
+C:/Users/Maxwell Lim/Documents/Programs/CPP/PhoneBookApplication/eraseCommand.h
+
+C:/Users/Maxwell Lim/Documents/Programs/CPP/PhoneBookApplication/eraseCommand.h
+bookCommand.h
+C:/Users/Maxwell Lim/Documents/Programs/CPP/PhoneBookApplication/bookCommand.h
+phoneBook.h
+C:/Users/Maxwell Lim/Documents/Programs/CPP/PhoneBookApplication/phoneBook.h
+
+C:/Users/Maxwell Lim/Documents/Programs/CPP/PhoneBookApplication/menuList.h
+string
+-
+ios
+-
+vector
+-
+string
+-
+command.h
+C:/Users/Maxwell Lim/Documents/Programs/CPP/PhoneBookApplication/command.h
+
+C:/Users/Maxwell Lim/Documents/Programs/CPP/PhoneBookApplication/phoneBook.cpp
+iostream
+-
+iomanip
+-
+phoneBook.h
+C:/Users/Maxwell Lim/Documents/Programs/CPP/PhoneBookApplication/phoneBook.h
+
+C:/Users/Maxwell Lim/Documents/Programs/CPP/PhoneBookApplication/phoneBook.h
+vector
+-
+phoneBookEntry.h
+C:/Users/Maxwell Lim/Documents/Programs/CPP/PhoneBookApplication/phoneBookEntry.h
+
+C:/Users/Maxwell Lim/Documents/Programs/CPP/PhoneBookApplication/phoneBookEntry.h
+string
+-
+
+C:/Users/Maxwell Lim/Documents/Programs/CPP/PhoneBookApplication/printCommand.cpp
+printCommand.h
+C:/Users/Maxwell Lim/Documents/Programs/CPP/PhoneBookApplication/printCommand.h
+
+C:/Users/Maxwell Lim/Documents/Programs/CPP/PhoneBookApplication/printCommand.h
+bookCommand.h
+C:/Users/Maxwell Lim/Documents/Programs/CPP/PhoneBookApplication/bookCommand.h
+phoneBook.h
+C:/Users/Maxwell Lim/Documents/Programs/CPP/PhoneBookApplication/phoneBook.h
+
